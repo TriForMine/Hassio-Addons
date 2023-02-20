@@ -8,7 +8,7 @@ arch:
   - aarch64
   - amd64
   - i386
-image: ghcr.io/Poeschl/ha-icantbelieveitsnotvaletudo-{arch}
+image: ghcr.io/poeschl/ha-icantbelieveitsnotvaletudo-{arch}
 ports:
   8080/tcp:
 ports_description:
