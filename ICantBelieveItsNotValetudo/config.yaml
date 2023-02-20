@@ -1,14 +1,14 @@
-name: ICantBelieveItsNotValetudo
+name: ICantBelieveItsNotValetudo2
 version: 4.0.0
-slug: icantbelieveitsnotvaletudo
+slug: icantbelieveitsnotvaletudo-2
 description: This is a simple companion service for valetudo which generates the map pngs.
-url: https://github.com/Poeschl/Hassio-Addons/tree/main/ICantBelieveItsNotValetudo
+url: https://github.com/TriForMine/Hassio-Addons/tree/main/ICantBelieveItsNotValetudo
 arch:
   - armv7
   - aarch64
   - amd64
   - i386
-image: ghcr.io/poeschl/ha-icantbelieveitsnotvaletudo-{arch}
+image: ghcr.io/triformine/ha-icantbelieveitsnotvaletudo-{arch}
 ports:
   8080/tcp:
 ports_description:
